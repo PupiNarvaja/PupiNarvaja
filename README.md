@@ -1,4 +1,4 @@
-<h1 align="left">Hello World, I´m Juan Manuel Narvaja.</h1>
+<h1 align="left">Hello World:raised_hands:, I´m Juan Manuel Narvaja.</h1>
 <h3 align="left">A front-end developer from Argentina.</h3>
 
 - 🔭 I’m currently working on <a href="https://swypecreativo.com" target="_blank" rel="noreferrer">Swype</a>
