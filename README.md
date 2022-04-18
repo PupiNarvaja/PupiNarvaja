@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **juannarvaja@gmail.com**
 
-- 📄 Know about my professional information: [linkedin.com/in/juan-manuel-narvaja-17b831206](linkedin.com/in/juan-manuel-narvaja-17b831206)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/juan-manuel-narvaja-17b831206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/juan-manuel-narvaja-17b831206" height="30" width="40" /></a>
