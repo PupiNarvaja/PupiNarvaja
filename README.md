@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on <a href="https://swypecreativo.com" target="_blank" rel="noreferrer">Swype</a>
 
-- 👨‍💻 All of my projects are available at [(Personal site in progress).]((Personal site in progress).)
+- 👨‍💻 All of my projects are available at (Personal site in progress).
 
 - 📫 How to reach me **juannarvaja@gmail.com**
 
