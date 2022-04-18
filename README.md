@@ -1,10 +1,7 @@
 <h1 align="left">Hello World, I´m Juan Manuel Narvaja.</h1>
 <h3 align="left">A front-end developer from Argentina.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pupinarvaja&label=Profile%20views&color=0e75b6&style=flat" alt="pupinarvaja" /> </p>
-
-
-- 🔭 I’m currently working on [Swype](https://swypecreativo.com)
+- 🔭 I’m currently working on <a href="https://swypecreativo.com" target="_blank" rel="noreferrer">Swype</a>
 
 - 👨‍💻 All of my projects are available at [(Personal site in progress).]((Personal site in progress).)
 
