@@ -1,5 +1,5 @@
-<h1 align="center">Hello World, I´m Juan Manuel Narvaja.</h1>
-<h3 align="center">A front-end developer from Argentina.</h3>
+<h1 align="left">Hello World, I´m Juan Manuel Narvaja.</h1>
+<h3 align="left">A front-end developer from Argentina.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pupinarvaja&label=Profile%20views&color=0e75b6&style=flat" alt="pupinarvaja" /> </p>
 
