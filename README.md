@@ -1,5 +1,5 @@
 <h1 align="left">Hello World:raised_hands:, I´m Juan Manuel Narvaja.</h1>
-<h3 align="left">A front-end developer from Argentina.</h3>
+<h3 align="left">A full-stack developer from Argentina.</h3>
 
 - 🔭 My most recent project is <a href="https://swypecreativo.com" target="_blank" rel="noreferrer">Swype</a>
 
